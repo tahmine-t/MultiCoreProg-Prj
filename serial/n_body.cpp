@@ -3,46 +3,47 @@
 #include "NBody.h"
 #include "VectorMath.h"
 #include "CycleTimer.h"
+#include <fstream>
 
 using namespace std;
 
-void display_bodies()
+int COMPUTATION_STEP = 100;
+
+void display_bodies(ofstream &outfile)
 {
   for (int i = 0; i < BODY_COUNT; i++)
   {
-    printf("\nBody %d:\nMass: %f\nPosition(x ,y, z): %f, %f, %f\nVelocity(x, y, z): %f, %f, %f\nAcceleration(x ,y, z): %f, %f, %f\n\n",
-           i + 1,
-           nBodyMass[i],
-           nBodyPosition[i].x, nBodyPosition[i].y, nBodyPosition[i].z,
-           nBodyVelocity[i].x, nBodyVelocity[i].y, nBodyVelocity[i].z,
-           nBodyAcceleration[i].x, nBodyAcceleration[i].y, nBodyAcceleration[i].z);
+    // printf("\nBody %d:\nMass: %f\nPosition(x ,y, z): %f, %f, %f\nVelocity(x, y, z): %f, %f, %f\nAcceleration(x ,y, z): %f, %f, %f\n\n",
+    //        i + 1,
+    //        nBodyMass[i],
+    //        nBodyPosition[i].x, nBodyPosition[i].y, nBodyPosition[i].z,
+    //        nBodyVelocity[i].x, nBodyVelocity[i].y, nBodyVelocity[i].z,
+    //        nBodyAcceleration[i].x, nBodyAcceleration[i].y, nBodyAcceleration[i].z);
+
+    outfile << "Body " << i + 1 << ":" << endl;
+    outfile << "Mass: " << nBodyMass[i] << endl;
+    outfile << "Position(x, y, z): "
+            << nBodyPosition[i].x << " " << nBodyPosition[i].y << " " << nBodyPosition[i].z << endl;
+    outfile << "Velocity(x, y, z): "
+            << nBodyVelocity[i].x << " " << nBodyVelocity[i].y << " " << nBodyVelocity[i].z << endl;
+    outfile << "Acceleration(x, y, z): "
+            << nBodyAcceleration[i].x << " " << nBodyAcceleration[i].y << " " << nBodyAcceleration[i].z << endl
+            << endl;
   }
 }
 
 // Calculate new positions at each time step.
 void compute()
 {
-  // display_bodies();
-  double start, end, minSerial = 1e30;
-  for (int j = 0; j < 1; ++j)
+  for (int i = 0; i < COMPUTATION_STEP; ++i)
   {
-    start = CycleTimer::currentSeconds();
-    for (int i = 0; i < 100; ++i)
-    {
-      updatePhysics(i * 100);
-    }
-    end = CycleTimer::currentSeconds();
-    minSerial = std::min(minSerial, end - start);
+    updatePhysics(i * 100);
   }
-  display_bodies();
-  printf("Time Taken by Serial implementation: %f ms\n", (minSerial) * 1000);
 }
 
 // Physics
-
 void updateAcceleration(int bodyIndex)
 {
-
   Force3D netForce = {0, 0, 0};
 
   for (int i = 0; i < BODY_COUNT; i++)
@@ -58,6 +59,7 @@ void updateAcceleration(int bodyIndex)
         nBodyMass[i],
         nBodyPosition[bodyIndex],
         nBodyPosition[i]);
+
     direction(
         nBodyPosition[bodyIndex],
         nBodyPosition[i],
@@ -66,6 +68,7 @@ void updateAcceleration(int bodyIndex)
     vectorForceToOther.x *= scalarForceBetween;
     vectorForceToOther.y *= scalarForceBetween;
     vectorForceToOther.z *= scalarForceBetween;
+
     netForce.x += vectorForceToOther.x;
     netForce.y += vectorForceToOther.y;
     netForce.z += vectorForceToOther.z;
@@ -97,17 +100,30 @@ void updatePhysics(float deltaT)
     updateAcceleration(i);
     updateVelocity(i, deltaT);
     updatePosition(i, deltaT);
-
-    // printf("\nBody 0:\nMass: %f\nPosition(x ,y, z): %f, %f, %f\nVelocity(x, y, z): %f, %f, %f\nAcceleration(x ,y, z): %f, %f, %f\n\n",
-    //        nBodyMass[0],
-    //        nBodyPosition[0].x, nBodyPosition[0].y, nBodyPosition[0].z,
-    //        nBodyVelocity[0].x, nBodyVelocity[0].y, nBodyVelocity[0].z,
-    //        nBodyAcceleration[0].x, nBodyAcceleration[0].y, nBodyAcceleration[0].z);
   }
 }
 
 int main()
 {
+  double start, end, minSerial = 1e30;
+  start = CycleTimer::currentSeconds();
+
   compute();
+
+  end = CycleTimer::currentSeconds();
+  minSerial = std::min(minSerial, end - start);
+
+  // Write Results in output file
+  ofstream file_name("nbody_serial.txt");
+  if (!file_name.is_open())
+  {
+    cerr << "Error opening file!" << endl;
+    return 0;
+  }
+  file_name << "Body Count: " << BODY_COUNT << endl;
+  file_name << "Total Time: " << minSerial << " seconds" << endl << endl;
+  display_bodies(file_name);
+  file_name.close();
+
   return 0;
 }
