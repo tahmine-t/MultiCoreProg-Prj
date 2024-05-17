@@ -2,9 +2,11 @@
 
 Running the code
 To run the Serial version:
+'''
 $ cd serial/
 $ g++ -o nbody_serial n_body.cpp -lm
 $ ./nbody_serial
+'''
 
 To run the openMP version:
 Pre-requisites: CUDA, openMP and openGL libraries should be present
