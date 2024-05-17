@@ -1,5 +1,4 @@
 /* Sequential version of N body simulation */
-/* Author: Raghav Pandya */
 
 #include "NBody.h"
 #include "VectorMath.h"
