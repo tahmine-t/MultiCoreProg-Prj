@@ -1,13 +1,10 @@
 /* Sequential version of N body simulation */
-/* Author: Raghav Pandya */
 
 #include "NBody.h"
 #include "VectorMath.h"
 #include "CycleTimer.h"
 
 using namespace std;
-
-// Compute forces on each body with time step
 
 void display_bodies()
 {
@@ -22,6 +19,7 @@ void display_bodies()
   }
 }
 
+// Calculate new positions at each time step.
 void compute()
 {
   // display_bodies();
@@ -36,6 +34,7 @@ void compute()
     end = CycleTimer::currentSeconds();
     minSerial = std::min(minSerial, end - start);
   }
+  display_bodies();
   printf("Time Taken by Serial implementation: %f ms\n", (minSerial) * 1000);
 }
 
@@ -85,7 +84,6 @@ void updateVelocity(int bodyIndex, float deltaT)
 
 void updatePosition(int bodyIndex, float deltaT)
 {
-
   nBodyPosition[bodyIndex] = computePos3D(
       nBodyVelocity[bodyIndex],
       nBodyPosition[bodyIndex],
@@ -99,6 +97,12 @@ void updatePhysics(float deltaT)
     updateAcceleration(i);
     updateVelocity(i, deltaT);
     updatePosition(i, deltaT);
+
+    // printf("\nBody 0:\nMass: %f\nPosition(x ,y, z): %f, %f, %f\nVelocity(x, y, z): %f, %f, %f\nAcceleration(x ,y, z): %f, %f, %f\n\n",
+    //        nBodyMass[0],
+    //        nBodyPosition[0].x, nBodyPosition[0].y, nBodyPosition[0].z,
+    //        nBodyVelocity[0].x, nBodyVelocity[0].y, nBodyVelocity[0].z,
+    //        nBodyAcceleration[0].x, nBodyAcceleration[0].y, nBodyAcceleration[0].z);
   }
 }
 
