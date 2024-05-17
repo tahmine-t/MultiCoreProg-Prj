@@ -1,0 +1,1440 @@
+Body 1:
+Mass: 1e+016
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 2:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 3:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 4:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 5:
+Mass: 30
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 6:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 7:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 8:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 9:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 10:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 11:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 12:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 13:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 14:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 15:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 16:
+Mass: 1e+016
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 17:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 18:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 19:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 20:
+Mass: 30
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 21:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 22:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 23:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 24:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 25:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 26:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 27:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 28:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 29:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 30:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 31:
+Mass: 1e+016
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 32:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 33:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 34:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 35:
+Mass: 30
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 36:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 37:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 38:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 39:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 40:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 41:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 42:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 43:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 44:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 45:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 46:
+Mass: 1e+016
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 47:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 48:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 49:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 50:
+Mass: 30
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 51:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 52:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 53:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 54:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 55:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 56:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 57:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 58:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 59:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 60:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 61:
+Mass: 1e+016
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 62:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 63:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 64:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 65:
+Mass: 30
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 66:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 67:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 68:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 69:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 70:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 71:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 72:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 73:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 74:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 75:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 76:
+Mass: 1e+016
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 77:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 78:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 79:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 80:
+Mass: 30
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 81:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 82:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 83:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 84:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 85:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 86:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 87:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 88:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 89:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 90:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 91:
+Mass: 1e+016
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 92:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 93:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 94:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 95:
+Mass: 30
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 96:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 97:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 98:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 99:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 100:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 101:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 102:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 103:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 104:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 105:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 106:
+Mass: 1e+016
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 107:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 108:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 109:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 110:
+Mass: 30
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 111:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 112:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 113:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 114:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 115:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 116:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 117:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 118:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 119:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 120:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 121:
+Mass: 1e+016
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 122:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 123:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 124:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 125:
+Mass: 30
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 126:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 127:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 128:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 129:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 130:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 131:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 132:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 133:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 134:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 135:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 136:
+Mass: 1e+016
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 137:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 138:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 139:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 140:
+Mass: 30
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 141:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 142:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 143:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 144:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 145:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 146:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 147:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 148:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 149:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 150:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 151:
+Mass: 1e+016
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 152:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 153:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 154:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 155:
+Mass: 30
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 156:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 157:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 158:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 159:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 160:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 161:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 162:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 163:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 164:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 165:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 166:
+Mass: 1e+016
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 167:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 168:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 169:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 170:
+Mass: 30
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 171:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 172:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 173:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 174:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 175:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 176:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 177:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 178:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 179:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 180:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 181:
+Mass: 1e+016
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 182:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 183:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 184:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 185:
+Mass: 30
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 186:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 187:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 188:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 189:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 190:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 191:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 192:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 193:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 194:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 195:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 196:
+Mass: 1e+016
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 197:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 198:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 199:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 200:
+Mass: 30
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 201:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 202:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 203:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 204:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 205:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 206:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 207:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 208:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 209:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 210:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 211:
+Mass: 1e+016
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 212:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 213:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 214:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 215:
+Mass: 30
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 216:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 217:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 218:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 219:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 220:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 221:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 222:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 223:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 224:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 225:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 226:
+Mass: 1e+016
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 227:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 228:
+Mass: 10
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 229:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 230:
+Mass: 30
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 231:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 232:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 233:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 234:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 235:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 236:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 237:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 238:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 239:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+
+Body 240:
+Mass: 20
+Position(x, y, z): nan nan nan
+Velocity(x, y, z): nan nan nan
+Acceleration(x, y, z): nan nan nan
+

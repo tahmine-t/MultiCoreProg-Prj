@@ -1,0 +1,1440 @@
+Body 1:
+Mass: 1e+016
+Position(x, y, z): 0 0 -1000
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 2:
+Mass: 10
+Position(x, y, z): 0 200 -1000
+Velocity(x, y, z): -30 -30 -30
+Acceleration(x, y, z): 0 0 0
+
+Body 3:
+Mass: 10
+Position(x, y, z): -200 0 -1000
+Velocity(x, y, z): 30 30 30
+Acceleration(x, y, z): 0 0 0
+
+Body 4:
+Mass: 20
+Position(x, y, z): 0 0 -800
+Velocity(x, y, z): 45 -30 15
+Acceleration(x, y, z): 0 0 0
+
+Body 5:
+Mass: 30
+Position(x, y, z): -100 0 -2000
+Velocity(x, y, z): -30 20 -45
+Acceleration(x, y, z): 0 0 0
+
+Body 6:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): -30 20 10
+Acceleration(x, y, z): 0 0 0
+
+Body 7:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 8:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 9:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 10:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 11:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 12:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 13:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 14:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 15:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 16:
+Mass: 1e+016
+Position(x, y, z): 0 0 -1000
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 17:
+Mass: 10
+Position(x, y, z): 0 200 -1000
+Velocity(x, y, z): -30 -30 -30
+Acceleration(x, y, z): 0 0 0
+
+Body 18:
+Mass: 10
+Position(x, y, z): -200 0 -1000
+Velocity(x, y, z): 30 30 30
+Acceleration(x, y, z): 0 0 0
+
+Body 19:
+Mass: 20
+Position(x, y, z): 0 0 -800
+Velocity(x, y, z): 45 -30 15
+Acceleration(x, y, z): 0 0 0
+
+Body 20:
+Mass: 30
+Position(x, y, z): -100 0 -2000
+Velocity(x, y, z): -30 20 -45
+Acceleration(x, y, z): 0 0 0
+
+Body 21:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): -30 20 10
+Acceleration(x, y, z): 0 0 0
+
+Body 22:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 23:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 24:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 25:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 26:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 27:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 28:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 29:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 30:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 31:
+Mass: 1e+016
+Position(x, y, z): 0 0 -1000
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 32:
+Mass: 10
+Position(x, y, z): 0 200 -1000
+Velocity(x, y, z): -30 -30 -30
+Acceleration(x, y, z): 0 0 0
+
+Body 33:
+Mass: 10
+Position(x, y, z): -200 0 -1000
+Velocity(x, y, z): 30 30 30
+Acceleration(x, y, z): 0 0 0
+
+Body 34:
+Mass: 20
+Position(x, y, z): 0 0 -800
+Velocity(x, y, z): 45 -30 15
+Acceleration(x, y, z): 0 0 0
+
+Body 35:
+Mass: 30
+Position(x, y, z): -100 0 -2000
+Velocity(x, y, z): -30 20 -45
+Acceleration(x, y, z): 0 0 0
+
+Body 36:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): -30 20 10
+Acceleration(x, y, z): 0 0 0
+
+Body 37:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 38:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 39:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 40:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 41:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 42:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 43:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 44:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 45:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 46:
+Mass: 1e+016
+Position(x, y, z): 0 0 -1000
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 47:
+Mass: 10
+Position(x, y, z): 0 200 -1000
+Velocity(x, y, z): -30 -30 -30
+Acceleration(x, y, z): 0 0 0
+
+Body 48:
+Mass: 10
+Position(x, y, z): -200 0 -1000
+Velocity(x, y, z): 30 30 30
+Acceleration(x, y, z): 0 0 0
+
+Body 49:
+Mass: 20
+Position(x, y, z): 0 0 -800
+Velocity(x, y, z): 45 -30 15
+Acceleration(x, y, z): 0 0 0
+
+Body 50:
+Mass: 30
+Position(x, y, z): -100 0 -2000
+Velocity(x, y, z): -30 20 -45
+Acceleration(x, y, z): 0 0 0
+
+Body 51:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): -30 20 10
+Acceleration(x, y, z): 0 0 0
+
+Body 52:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 53:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 54:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 55:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 56:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 57:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 58:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 59:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 60:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 61:
+Mass: 1e+016
+Position(x, y, z): 0 0 -1000
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 62:
+Mass: 10
+Position(x, y, z): 0 200 -1000
+Velocity(x, y, z): -30 -30 -30
+Acceleration(x, y, z): 0 0 0
+
+Body 63:
+Mass: 10
+Position(x, y, z): -200 0 -1000
+Velocity(x, y, z): 30 30 30
+Acceleration(x, y, z): 0 0 0
+
+Body 64:
+Mass: 20
+Position(x, y, z): 0 0 -800
+Velocity(x, y, z): 45 -30 15
+Acceleration(x, y, z): 0 0 0
+
+Body 65:
+Mass: 30
+Position(x, y, z): -100 0 -2000
+Velocity(x, y, z): -30 20 -45
+Acceleration(x, y, z): 0 0 0
+
+Body 66:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): -30 20 10
+Acceleration(x, y, z): 0 0 0
+
+Body 67:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 68:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 69:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 70:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 71:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 72:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 73:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 74:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 75:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 76:
+Mass: 1e+016
+Position(x, y, z): 0 0 -1000
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 77:
+Mass: 10
+Position(x, y, z): 0 200 -1000
+Velocity(x, y, z): -30 -30 -30
+Acceleration(x, y, z): 0 0 0
+
+Body 78:
+Mass: 10
+Position(x, y, z): -200 0 -1000
+Velocity(x, y, z): 30 30 30
+Acceleration(x, y, z): 0 0 0
+
+Body 79:
+Mass: 20
+Position(x, y, z): 0 0 -800
+Velocity(x, y, z): 45 -30 15
+Acceleration(x, y, z): 0 0 0
+
+Body 80:
+Mass: 30
+Position(x, y, z): -100 0 -2000
+Velocity(x, y, z): -30 20 -45
+Acceleration(x, y, z): 0 0 0
+
+Body 81:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): -30 20 10
+Acceleration(x, y, z): 0 0 0
+
+Body 82:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 83:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 84:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 85:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 86:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 87:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 88:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 89:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 90:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 91:
+Mass: 1e+016
+Position(x, y, z): 0 0 -1000
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 92:
+Mass: 10
+Position(x, y, z): 0 200 -1000
+Velocity(x, y, z): -30 -30 -30
+Acceleration(x, y, z): 0 0 0
+
+Body 93:
+Mass: 10
+Position(x, y, z): -200 0 -1000
+Velocity(x, y, z): 30 30 30
+Acceleration(x, y, z): 0 0 0
+
+Body 94:
+Mass: 20
+Position(x, y, z): 0 0 -800
+Velocity(x, y, z): 45 -30 15
+Acceleration(x, y, z): 0 0 0
+
+Body 95:
+Mass: 30
+Position(x, y, z): -100 0 -2000
+Velocity(x, y, z): -30 20 -45
+Acceleration(x, y, z): 0 0 0
+
+Body 96:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): -30 20 10
+Acceleration(x, y, z): 0 0 0
+
+Body 97:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 98:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 99:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 100:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 101:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 102:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 103:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 104:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 105:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 106:
+Mass: 1e+016
+Position(x, y, z): 0 0 -1000
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 107:
+Mass: 10
+Position(x, y, z): 0 200 -1000
+Velocity(x, y, z): -30 -30 -30
+Acceleration(x, y, z): 0 0 0
+
+Body 108:
+Mass: 10
+Position(x, y, z): -200 0 -1000
+Velocity(x, y, z): 30 30 30
+Acceleration(x, y, z): 0 0 0
+
+Body 109:
+Mass: 20
+Position(x, y, z): 0 0 -800
+Velocity(x, y, z): 45 -30 15
+Acceleration(x, y, z): 0 0 0
+
+Body 110:
+Mass: 30
+Position(x, y, z): -100 0 -2000
+Velocity(x, y, z): -30 20 -45
+Acceleration(x, y, z): 0 0 0
+
+Body 111:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): -30 20 10
+Acceleration(x, y, z): 0 0 0
+
+Body 112:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 113:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 114:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 115:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 116:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 117:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 118:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 119:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 120:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 121:
+Mass: 1e+016
+Position(x, y, z): 0 0 -1000
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 122:
+Mass: 10
+Position(x, y, z): 0 200 -1000
+Velocity(x, y, z): -30 -30 -30
+Acceleration(x, y, z): 0 0 0
+
+Body 123:
+Mass: 10
+Position(x, y, z): -200 0 -1000
+Velocity(x, y, z): 30 30 30
+Acceleration(x, y, z): 0 0 0
+
+Body 124:
+Mass: 20
+Position(x, y, z): 0 0 -800
+Velocity(x, y, z): 45 -30 15
+Acceleration(x, y, z): 0 0 0
+
+Body 125:
+Mass: 30
+Position(x, y, z): -100 0 -2000
+Velocity(x, y, z): -30 20 -45
+Acceleration(x, y, z): 0 0 0
+
+Body 126:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): -30 20 10
+Acceleration(x, y, z): 0 0 0
+
+Body 127:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 128:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 129:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 130:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 131:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 132:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 133:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 134:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 135:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 136:
+Mass: 1e+016
+Position(x, y, z): 0 0 -1000
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 137:
+Mass: 10
+Position(x, y, z): 0 200 -1000
+Velocity(x, y, z): -30 -30 -30
+Acceleration(x, y, z): 0 0 0
+
+Body 138:
+Mass: 10
+Position(x, y, z): -200 0 -1000
+Velocity(x, y, z): 30 30 30
+Acceleration(x, y, z): 0 0 0
+
+Body 139:
+Mass: 20
+Position(x, y, z): 0 0 -800
+Velocity(x, y, z): 45 -30 15
+Acceleration(x, y, z): 0 0 0
+
+Body 140:
+Mass: 30
+Position(x, y, z): -100 0 -2000
+Velocity(x, y, z): -30 20 -45
+Acceleration(x, y, z): 0 0 0
+
+Body 141:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): -30 20 10
+Acceleration(x, y, z): 0 0 0
+
+Body 142:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 143:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 144:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 145:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 146:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 147:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 148:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 149:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 150:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 151:
+Mass: 1e+016
+Position(x, y, z): 0 0 -1000
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 152:
+Mass: 10
+Position(x, y, z): 0 200 -1000
+Velocity(x, y, z): -30 -30 -30
+Acceleration(x, y, z): 0 0 0
+
+Body 153:
+Mass: 10
+Position(x, y, z): -200 0 -1000
+Velocity(x, y, z): 30 30 30
+Acceleration(x, y, z): 0 0 0
+
+Body 154:
+Mass: 20
+Position(x, y, z): 0 0 -800
+Velocity(x, y, z): 45 -30 15
+Acceleration(x, y, z): 0 0 0
+
+Body 155:
+Mass: 30
+Position(x, y, z): -100 0 -2000
+Velocity(x, y, z): -30 20 -45
+Acceleration(x, y, z): 0 0 0
+
+Body 156:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): -30 20 10
+Acceleration(x, y, z): 0 0 0
+
+Body 157:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 158:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 159:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 160:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 161:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 162:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 163:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 164:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 165:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 166:
+Mass: 1e+016
+Position(x, y, z): 0 0 -1000
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 167:
+Mass: 10
+Position(x, y, z): 0 200 -1000
+Velocity(x, y, z): -30 -30 -30
+Acceleration(x, y, z): 0 0 0
+
+Body 168:
+Mass: 10
+Position(x, y, z): -200 0 -1000
+Velocity(x, y, z): 30 30 30
+Acceleration(x, y, z): 0 0 0
+
+Body 169:
+Mass: 20
+Position(x, y, z): 0 0 -800
+Velocity(x, y, z): 45 -30 15
+Acceleration(x, y, z): 0 0 0
+
+Body 170:
+Mass: 30
+Position(x, y, z): -100 0 -2000
+Velocity(x, y, z): -30 20 -45
+Acceleration(x, y, z): 0 0 0
+
+Body 171:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): -30 20 10
+Acceleration(x, y, z): 0 0 0
+
+Body 172:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 173:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 174:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 175:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 176:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 177:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 178:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 179:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 180:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 181:
+Mass: 1e+016
+Position(x, y, z): 0 0 -1000
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 182:
+Mass: 10
+Position(x, y, z): 0 200 -1000
+Velocity(x, y, z): -30 -30 -30
+Acceleration(x, y, z): 0 0 0
+
+Body 183:
+Mass: 10
+Position(x, y, z): -200 0 -1000
+Velocity(x, y, z): 30 30 30
+Acceleration(x, y, z): 0 0 0
+
+Body 184:
+Mass: 20
+Position(x, y, z): 0 0 -800
+Velocity(x, y, z): 45 -30 15
+Acceleration(x, y, z): 0 0 0
+
+Body 185:
+Mass: 30
+Position(x, y, z): -100 0 -2000
+Velocity(x, y, z): -30 20 -45
+Acceleration(x, y, z): 0 0 0
+
+Body 186:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): -30 20 10
+Acceleration(x, y, z): 0 0 0
+
+Body 187:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 188:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 189:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 190:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 191:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 192:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 193:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 194:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 195:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 196:
+Mass: 1e+016
+Position(x, y, z): 0 0 -1000
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 197:
+Mass: 10
+Position(x, y, z): 0 200 -1000
+Velocity(x, y, z): -30 -30 -30
+Acceleration(x, y, z): 0 0 0
+
+Body 198:
+Mass: 10
+Position(x, y, z): -200 0 -1000
+Velocity(x, y, z): 30 30 30
+Acceleration(x, y, z): 0 0 0
+
+Body 199:
+Mass: 20
+Position(x, y, z): 0 0 -800
+Velocity(x, y, z): 45 -30 15
+Acceleration(x, y, z): 0 0 0
+
+Body 200:
+Mass: 30
+Position(x, y, z): -100 0 -2000
+Velocity(x, y, z): -30 20 -45
+Acceleration(x, y, z): 0 0 0
+
+Body 201:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): -30 20 10
+Acceleration(x, y, z): 0 0 0
+
+Body 202:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 203:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 204:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 205:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 206:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 207:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 208:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 209:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 210:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 211:
+Mass: 1e+016
+Position(x, y, z): 0 0 -1000
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 212:
+Mass: 10
+Position(x, y, z): 0 200 -1000
+Velocity(x, y, z): -30 -30 -30
+Acceleration(x, y, z): 0 0 0
+
+Body 213:
+Mass: 10
+Position(x, y, z): -200 0 -1000
+Velocity(x, y, z): 30 30 30
+Acceleration(x, y, z): 0 0 0
+
+Body 214:
+Mass: 20
+Position(x, y, z): 0 0 -800
+Velocity(x, y, z): 45 -30 15
+Acceleration(x, y, z): 0 0 0
+
+Body 215:
+Mass: 30
+Position(x, y, z): -100 0 -2000
+Velocity(x, y, z): -30 20 -45
+Acceleration(x, y, z): 0 0 0
+
+Body 216:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): -30 20 10
+Acceleration(x, y, z): 0 0 0
+
+Body 217:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 218:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 219:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 220:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 221:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 222:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 223:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 224:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 225:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 226:
+Mass: 1e+016
+Position(x, y, z): 0 0 -1000
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 227:
+Mass: 10
+Position(x, y, z): 0 200 -1000
+Velocity(x, y, z): -30 -30 -30
+Acceleration(x, y, z): 0 0 0
+
+Body 228:
+Mass: 10
+Position(x, y, z): -200 0 -1000
+Velocity(x, y, z): 30 30 30
+Acceleration(x, y, z): 0 0 0
+
+Body 229:
+Mass: 20
+Position(x, y, z): 0 0 -800
+Velocity(x, y, z): 45 -30 15
+Acceleration(x, y, z): 0 0 0
+
+Body 230:
+Mass: 30
+Position(x, y, z): -100 0 -2000
+Velocity(x, y, z): -30 20 -45
+Acceleration(x, y, z): 0 0 0
+
+Body 231:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): -30 20 10
+Acceleration(x, y, z): 0 0 0
+
+Body 232:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 233:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 234:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 235:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 236:
+Mass: 20
+Position(x, y, z): 100 0 -500
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 237:
+Mass: 20
+Position(x, y, z): -50 10 0
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 238:
+Mass: 20
+Position(x, y, z): 150 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 239:
+Mass: 20
+Position(x, y, z): 800 0 -20
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
+Body 240:
+Mass: 20
+Position(x, y, z): 100 0 -100
+Velocity(x, y, z): 0 0 0
+Acceleration(x, y, z): 0 0 0
+
