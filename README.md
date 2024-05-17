@@ -9,7 +9,8 @@ $ g++ -o nbody_serial n_body.cpp -lm
 $ ./nbody_serial
 ```
 
-To run the openMP version:
+To run the openMP version
+
 Pre-requisites: CUDA, openMP and openGL libraries should be present
 ```
 $ cd openMp/
