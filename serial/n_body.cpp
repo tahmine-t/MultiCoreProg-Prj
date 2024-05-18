@@ -1,6 +1,6 @@
 /* Sequential version of N body simulation */
 
-#include "NBody.h"
+#include "../Dataset/NBody-4.h"
 #include "VectorMath.h"
 #include "CycleTimer.h"
 #include <fstream>
@@ -124,6 +124,8 @@ int main()
   file_name << "Total Time: " << minSerial << " seconds" << endl << endl;
   display_bodies(file_name);
   file_name.close();
+
+  printf("Time: %f\n", minSerial);
 
   return 0;
 }
