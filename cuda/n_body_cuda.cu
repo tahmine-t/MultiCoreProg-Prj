@@ -1,11 +1,14 @@
 /* Sequential version of N body simulation */
 
-#include "NBody.h"
+#include "Dataset/NBody-600.h"
 #include "VectorMath.h"
 #include "CycleTimer.h"
 #include <cuda.h>
 
 using namespace std;
+
+int COMPUTATION_STEP = 100;
+
 
 // Compute forces on each body with time step
 
@@ -101,9 +104,7 @@ void updatePhysics(
 }
 
 
-void compute() 
-{
-  double start, end, min = 1e30;
+void compute(){
 
   int BYTES_SIZE_VECTOR = BODY_COUNT * sizeof(Vector3D);
   int BYTES_SIZE_SCALAR = BODY_COUNT * sizeof(Scalar);
@@ -126,23 +127,18 @@ void compute()
   cudaMalloc((void**) &d_mass, BYTES_SIZE_SCALAR);
   cudaMemcpy(d_mass, h_mass, BYTES_SIZE_SCALAR, cudaMemcpyHostToDevice);
 
-    //Initializing Positions of N bodies in GPU
+  //Initializing Positions of N bodies in GPU
   Position3D *h_pos = nBodyPosition;
   Position3D *d_pos;
   cudaMalloc((void**) &d_pos, BYTES_SIZE_VECTOR);
   cudaMemcpy(d_pos, h_pos, BYTES_SIZE_VECTOR, cudaMemcpyHostToDevice);
 
 
-  for (int j = 0; j < 3; ++j){
-  start = CycleTimer::currentSeconds(); 
   for (int i = 0; i < 10000; ++i){
     updatePhysics<<<(BODY_COUNT/16) + 1, 16>>>(BODY_COUNT, (float)(i * 100), d_pos, d_vel, d_acc, d_mass);
   }
-
-  end = CycleTimer::currentSeconds();
-  min = std::min(min, end - start);
     
-  }
+
   cudaMemcpy(h_pos, d_pos, BYTES_SIZE_VECTOR, cudaMemcpyDeviceToHost);
   cudaMemcpy(h_vel, d_vel, BYTES_SIZE_VECTOR, cudaMemcpyDeviceToHost);
   cudaMemcpy(h_acc, d_acc, BYTES_SIZE_VECTOR, cudaMemcpyDeviceToHost);
@@ -151,11 +147,17 @@ void compute()
   cudaFree(d_acc);
   cudaFree(d_mass);
 
-  printf("Time Taken by CUDA implementation: %f ms\n", (min)*1000);
 }
 
 
-int main() 
-{
+int main(){
+  double start, end, min = 1e30;
+  start = CycleTimer::currentSeconds();
+
   compute();
+  
+  end = CycleTimer::currentSeconds();
+  min = std::min(min, end - start);
+  
+  printf("Time: %f\n", min);
 }
