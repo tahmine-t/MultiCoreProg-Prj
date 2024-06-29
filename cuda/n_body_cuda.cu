@@ -134,7 +134,7 @@ void compute(){
   cudaMemcpy(d_pos, h_pos, BYTES_SIZE_VECTOR, cudaMemcpyHostToDevice);
 
 
-  for (int i = 0; i < 10000; ++i){
+  for (int i = 0; i < COMPUTATION_STEP; ++i){
     updatePhysics<<<(BODY_COUNT/16) + 1, 16>>>(BODY_COUNT, (float)(i * 100), d_pos, d_vel, d_acc, d_mass);
   }
     
