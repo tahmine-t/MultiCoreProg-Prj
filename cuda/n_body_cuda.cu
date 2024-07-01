@@ -3,6 +3,8 @@
 #include "Dataset/NBody-600.h"
 #include "VectorMath.h"
 #include "CycleTimer.h"
+#include <iostream>
+#include <fstream>
 #include <cuda.h>
 
 using namespace std;
@@ -103,6 +105,22 @@ void updatePhysics(
   updatePosition(body_id, deltaT, d_vel, d_pos);
 }
 
+void display_bodies(ofstream &outfile)
+{
+  for (int i = 0; i < BODY_COUNT; i++){
+
+    outfile << "Body " << i + 1 << ":" << endl;
+    outfile << "Mass: " << nBodyMass[i] << endl;
+    outfile << "Position(x, y, z): "
+            << nBodyPosition[i].x << " " << nBodyPosition[i].y << " " << nBodyPosition[i].z << endl;
+    outfile << "Velocity(x, y, z): "
+            << nBodyVelocity[i].x << " " << nBodyVelocity[i].y << " " << nBodyVelocity[i].z << endl;
+    outfile << "Acceleration(x, y, z): "
+            << nBodyAcceleration[i].x << " " << nBodyAcceleration[i].y << " " << nBodyAcceleration[i].z << endl
+            << endl;
+  }
+}
+
 
 void compute(){
 
@@ -158,6 +176,19 @@ int main(){
   
   end = CycleTimer::currentSeconds();
   min = std::min(min, end - start);
+
+  // Write Results in output file
+  ofstream file_name("nbody_parallel.txt");
+  if (!file_name.is_open())
+  {
+    cerr << "Error opening file!" << endl;
+    return 0;
+  }
+  file_name << "Body Count: " << BODY_COUNT << endl;
+  file_name << "Total Time: " << min << " seconds" << endl
+            << endl;
+  display_bodies(file_name);
+  file_name.close();
   
   printf("Time: %f\n", min);
 }

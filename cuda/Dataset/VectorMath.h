@@ -8,6 +8,8 @@
 // Constants
 const static double PI = 3.141592653589f;
 const static double G = 6.67e-11f;
+const static double EPSILON = 1e-12f;
+
 
 // Vectors
 typedef double Vector;
@@ -37,7 +39,7 @@ typedef Scalar Time;
 __device__
 inline Scalar magnitude(const Vector3D &aVector) 
 {
-  Scalar squareOfLength = 0.0;
+  Scalar squareOfLength = 0.0 + EPSILON;
   squareOfLength += aVector.x * aVector.x;
   squareOfLength += aVector.y * aVector.y;
   squareOfLength += aVector.z * aVector.z;
